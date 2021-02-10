@@ -9,7 +9,7 @@
         > For K=4:  Cost=1.71
         > For K=10: Cost=1.59
 
-    > Run this algorithm: 
+    > To run this algorithm: 
 
         Required libraries are: pandas, numpy
         Run "kcenter.py" file to find the 2-approx K center.
